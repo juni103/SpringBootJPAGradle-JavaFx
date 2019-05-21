@@ -1,1 +1,1 @@
-# SpringBootJPAGradle-JavaFx
+# SpringBoot + JPA + Gradle + JavaFx
